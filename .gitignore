@@ -1,0 +1,7 @@
+/input/signalmedia
+/run
+/snapshot
+/udf/bazaar/parser/lib/*.jar
+/search
+db.url
+/.vscode
